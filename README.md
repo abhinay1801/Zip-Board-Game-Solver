@@ -1,7 +1,7 @@
 # Zip Board Game Solver
 
 A grid-based logic puzzle solver implemented in Java.  
-The Zip Board Game challenges the player (or algorithm) to connect a sequence of numbered nodes using a single continuous path that saturates every available cell on the grid.
+The Zip Board Game challenges the player to connect a sequence of numbered nodes using a single continuous path that saturates every available cell on the grid.
 
 ---
 
